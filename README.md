@@ -28,9 +28,8 @@
     To ensure transparency and reproducibility, the repository includes:
   </p>
   <ul>
-    <li>The <strong>prompts</strong> used for text conditioning.</li>
+    <li>The <strong>prompts</strong> used for combining geo and disaster texts.</li>
     <li>Direct <strong>links to the Wikipedia sections</strong> used during dataset preparation.</li>
-    <li>Preprocessing scripts and usage examples in the repository <code>Wiki</code>.</li>
   </ul>
 
   <h3>Example prompt used for text conditioning</h3>
@@ -40,9 +39,6 @@
     </pre>
   </div>
 
-  <p style="font-size:0.95em; color:#555;">
-    <strong>Note:</strong> Links to the exact Wikipedia sections and the full list of prompts are available in the repository Wiki. We recommend also citing these prompts in a footnote of the manuscript for reproducibility.
-  </p>
 </section>
 
 
