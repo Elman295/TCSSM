@@ -39,6 +39,15 @@
     </pre>
   </div>
 
+
+  <h3>Example of how to gather information from Wikipedia for Turkey </h3>
+
+  [[geo info](https://en.wikipedia.org/wiki/Geography_of_Turkey?utm_source=chatgpt.com)]
+[[disaster info](https://en.wikipedia.org/wiki/Earthquake?utm_source=chatgpt.com)] 
+  
+
+  
+
 </section>
 
 
