@@ -15,7 +15,7 @@
 
 ## 🏆 Updates
 
-- Submitted to IEEE TGRS
+- Submitted to ISPRS.
 
 
 
