@@ -15,7 +15,7 @@
 
 ## 🏆 Updates
 
-- Submitted to ISPRS.
+- Submitted to ISPRS Journal of Photogrammetry and Remote Sensing.
 
 
 
